@@ -1,0 +1,17 @@
+Metric,Value
+Creator,80 vlogs
+Video files,75
+Transcript files,152
+Unique video days,62
+Unique transcript days,75
+Canonical matches,51
+Transcript coverage (%),68.0
+Transcript-only days,13
+Video-only days,0
+Days requiring manual review,11
+Empty canonical transcripts,0
+Total words,104394
+Average words per transcript,2046.94
+Median words per transcript,2070.0
+Average lexical diversity,0.2494
+Median words per video minute,185.14

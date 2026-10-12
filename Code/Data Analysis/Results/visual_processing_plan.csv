@@ -1,0 +1,6 @@
+strategy,sampling_rate_fps,estimated_frames,estimated_storage_gb,estimated_model_hours
+1 frame every 30 seconds,0.03333333333333333,55125,7.89,0.77
+1 frame every 10 seconds,0.1,165375,23.66,2.3
+1 frame every 5 seconds,0.2,330750,47.31,4.59
+1 frame every 2 seconds,0.5,826874,118.29,11.48
+1 frame every second,1.0,1653749,236.57,22.97

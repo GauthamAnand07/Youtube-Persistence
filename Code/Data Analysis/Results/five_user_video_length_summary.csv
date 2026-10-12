@@ -1,0 +1,6 @@
+creator,video_count,total_duration_hours,average_minutes,median_minutes,standard_deviation_minutes,shortest_video_minutes,longest_video_minutes,coefficient_of_variation
+BEEF1776,99,26.8,16.24,14.5,6.18,6.59,30.4,0.38
+RosetheLourdes,114,29.67,15.61,14.97,6.37,2.2,30.06,0.41
+What Rissa Knows,105,15.12,8.64,8.38,0.72,8.0,10.99,0.08
+Matt Svatos,102,13.43,7.9,7.59,2.51,4.06,15.3,0.32
+Jake Bender,94,11.26,7.19,6.47,3.34,3.04,18.35,0.46
